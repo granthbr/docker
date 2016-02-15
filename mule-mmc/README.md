@@ -2,6 +2,8 @@ Mule ESB Management Console Docker Image
 ===============
 
 This project contains a Dockerfile for the deployment and packaging of a Mule ESB Management Console with Docker.
+I've adapted thie from cpoepke/docker to suit the requirements of my project. 
+One differenece is that I expanded the mmc and the esb into their own directories. 
 
 Preparing the Docker image
 ---------------
